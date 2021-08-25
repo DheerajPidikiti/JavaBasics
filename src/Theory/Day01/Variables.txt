@@ -1,0 +1,4 @@
+Take notes here
+
+What are variables, what are they used for, how to declare variables in java?
+

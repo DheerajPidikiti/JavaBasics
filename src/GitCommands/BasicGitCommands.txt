@@ -1,0 +1,16 @@
+To clone a git project:
+    git clone {url of project}
+
+To Pull Code from remote:
+    git pull
+
+To Add changes to repository:
+    git add .
+
+To Commit Changes:
+    git commit -m "{commit message}"
+
+To Push Changes:
+    git push
+
+Follow 4,7,10,13 steps.
